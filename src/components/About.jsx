@@ -70,24 +70,24 @@ function About() {
             A Computer Science Engineer and dedicated learner with extensive
             knowledge of Computer Science concepts and creative Web Designer. A
             budding web developer passionate about crafting engaging user
-            experiences with hands-on experience in React.js, ASP .NET, and
+            experiences with hands-on experience in React.js, java spring boot, and
             database management.
           </p>
           <div className="aboutInterests">
-             <p>
-                  <strong>Profile</strong> <b>:</b> Software Development
-             </p>
-             <p>
-                  <strong>Domain</strong> <b>:</b> Web Development
-             </p>
-             <p>
-                  <strong>Education</strong> <b>:</b> Bachelor of Technology (B.Tech in CS)
+            <p>
+              <strong>Profile</strong> <b>:</b> Software Development
             </p>
             <p>
-                  <strong>Interests</strong> <b>:</b> Travelling, Information Gathering, Reading
+              <strong>Domain</strong> <b>:</b> Web Development
             </p>
-             <p>
-                  <strong>Languages Known</strong> <b>:</b> English, Telugu, Hindi
+            <p>
+              <strong>Education</strong> <b>:</b> Bachelor of Technology (B.Tech in CS)
+            </p>
+            <p>
+              <strong>Interests</strong> <b>:</b> Drawing, Information Gathering, Reading
+            </p>
+            <p>
+              <strong>Languages Known</strong> <b>:</b> English, Telugu, Hindi
             </p>
           </div>
 

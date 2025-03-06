@@ -15,22 +15,22 @@ function EducationCard({ year, degree, institution, grade }) {
 function Education() {
   const educationData = [
     {
-      year: "2020 - 2023",
+      year: "2019 - 2023",
       degree: "Bachelor of Technology",
       institution: "BVC Engineering College",
-      grade: "8.50",
+      grade: "8.70",
     },
     {
-      year: "2017 - 2020",
-      degree: "Diploma (CME)",
-      institution: "BVC Institute of Technology & Science",
-      grade: "8.00",
+      year: "2017 - 2019",
+      degree: "Intermediate",
+      institution: "Aditya Junior College",
+      grade: "9.70",
     },
     {
       year: "2016 - 2017",
       degree: "Higher Secondary School",
-      institution: "Vignan EM High School",
-      grade: "First  Class Distinction",
+      institution: "Sri Vani Convent and High School",
+      grade: "9.70",
     },
   ];
 

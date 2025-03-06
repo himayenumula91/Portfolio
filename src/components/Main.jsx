@@ -103,8 +103,8 @@ function Main() {
     <div>
       <div className="navbar">
         <a href="#" className="nav-logo">
-          Satyanarayana
-          <span> Jakkampudi</span>
+          Hima Bindu Satya Lakshmi
+          <span> Yenumula</span>
         </a>
         <nav className={`nav-items ${isMenuOpen ? "show" : ""}`}>
           <ScrollLink

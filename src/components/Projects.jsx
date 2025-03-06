@@ -7,22 +7,31 @@ function Projects() {
   const modalRef = useRef(null);
 
   const projects = [
-    
+    {
+      title: "E-commerce Website for Online retails",
+      period: "Jan 2023 to Apr 2023",
+      technology: "React js, Java, Spring Boot, Spring MVC, MySQL",
+      moreInfo:
+        "Developed a full-stack e-commerce platform for electronics with a seamless shopping experience! Built with React.js for a dynamic UI and Spring Boot for robust backend functionality. Features include secure purchases, order management, and an optimized MSSQL Server database for efficiency!.",
+      repo: "https://github.com/himayenumula91/e-commerce",
+
+    },
+
     {
       title: "Cook Hiring System",
       period: "Jan 2023 to Apr 2023",
       technology: "React js, ASP.Net API, MySQL",
       moreInfo:
         " This application is built to help customers to post cooking jobs and the cooks can apply for the particular job posting online.While applying for the job, jobseekers can filter profile by uploading required documents and basic information. Customers have provision for submitting their reviews and profile to post the jobs. The Admins can view all the jobs submitted by customers and applied by the Job Seekers. Admin can either accept or reject the job.",
-      repo: "https://github.com/SATYA0082/CookHiringSystem",
+      repo: "https://github.com/himayenumula91/CookHire",
     },
     {
-      title: "Parking Management System",
+      title: "TO-DO-LIST App",
       period: "July 2022 to Nov 2022",
-      technology: "Python, Tk GUI toolkit",
+      technology: "React.js",
       moreInfo:
-        "The project aims to develop a application that helps in generating the automated bills to the vehicles based on the duration the vehicle have been parked. If the user gives the details of his/her name, vehicle number, entry time, exit time, by this info we will calculate the parking fee and display the details of vehicle and display the parking fee to be paid.",
-      repo: "https://github.com/SATYA0082/ParkingManagementSystem",
+        "Stay organized and boost productivity with this dynamic To- Do List app built in React.js! Effortlessly add, edit, and delete tasks while enjoying a sleek, responsive interface! Never miss a task again—manage your day with ease!.",
+      repo: "https://github.com/himayenumula91/TODO-List",
     },
   ];
 
@@ -57,7 +66,7 @@ function Projects() {
       <div className="gitDiv">
         <button className="gitButton">
           <a
-            href="https://github.com/SATYA0082?tab=repositories"
+            href="https://github.com/himayenumula91"
             target="_blank"
             rel="noopener noreferrer"
           >
