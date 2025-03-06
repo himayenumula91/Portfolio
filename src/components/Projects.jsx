@@ -16,15 +16,6 @@ function Projects() {
       repo: "https://github.com/himayenumula91/e-commerce",
 
     },
-
-    {
-      title: "Cook Hiring System",
-      period: "Jan 2023 to Apr 2023",
-      technology: "React js, ASP.Net API, MySQL",
-      moreInfo:
-        " This application is built to help customers to post cooking jobs and the cooks can apply for the particular job posting online.While applying for the job, jobseekers can filter profile by uploading required documents and basic information. Customers have provision for submitting their reviews and profile to post the jobs. The Admins can view all the jobs submitted by customers and applied by the Job Seekers. Admin can either accept or reject the job.",
-      repo: "https://github.com/himayenumula91/CookHire",
-    },
     {
       title: "TO-DO-LIST App",
       period: "July 2022 to Nov 2022",
@@ -32,6 +23,14 @@ function Projects() {
       moreInfo:
         "Stay organized and boost productivity with this dynamic To- Do List app built in React.js! Effortlessly add, edit, and delete tasks while enjoying a sleek, responsive interface! Never miss a task again—manage your day with ease!.",
       repo: "https://github.com/himayenumula91/TODO-List",
+    },
+    {
+      title: "Simple-Interst-Calculator",
+      period: "Jan 2023 to Apr 2023",
+      technology: "HTML, JavaScript, CSS",
+      moreInfo:
+        " A simple interest calculator built with HTML, CSS, and JavaScript allows users to input principal, rate, and time to compute interest instantly. The result is displayed dynamically upon user input or button click.",
+      repo: "https://github.com/himayenumula91/Simple-Interest-Calculator",
     },
   ];
 

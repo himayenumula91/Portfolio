@@ -49,7 +49,7 @@ function Contact() {
               <div className="contactDetails">
                 <h3>LinkedIn</h3>
                 <a
-                  href="linkedin.com/in/hima-bindu-satya-lakshmi-yenumula"
+                  href="http://linkedin.com/in/hima-bindu-satya-lakshmi-yenumula"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

@@ -47,7 +47,7 @@ function Home() {
   };
 
   const showResume = () => {
-    window.open("https://github.com/himayenumula91/Myresume", "_blank");
+    window.open("https://drive.google.com/file/d/1L4ya9i4GEhFqfzRsc3fD4N8HLF7qRETQ/view?usp=drivesdk", "_blank");
   };
 
   return (
