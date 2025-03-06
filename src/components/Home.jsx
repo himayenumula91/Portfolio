@@ -47,7 +47,7 @@ function Home() {
   };
 
   const showResume = () => {
-    window.open("https://drive.google.com/file/d/1L4ya9i4GEhFqfzRsc3fD4N8HLF7qRETQ/view?usp=drivesdk", "_blank");
+    window.open("https://drive.google.com/file/d/18U8f-4n3_CoQ5EZcY-XhXA1E7q5BapJg/view?usp=drive_link", "_blank");
   };
 
   return (
